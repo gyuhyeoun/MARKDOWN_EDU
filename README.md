@@ -1,5 +1,5 @@
 ## 9. 이미지 넣기
-![PCWK Cafe](http://github.com/unicorn.png,"설명문구")
+![PCWK Cafe](https://github.com/gyuhyeoun/MARKDOWN_EDU/blob/main/KakaoTalk_20211222_172450447_01.jpg, "설명문구")
 
 ### 8. 강조
 **Spring**을 만끽하세요.  
