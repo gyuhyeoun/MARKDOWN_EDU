@@ -1,5 +1,12 @@
+## 9. 이미지 넣기
+![PCWK Cafe](http://github.com/unicorn.png,"설명문구")
+
+### 8. 강조
+**Spring**을 만끽하세요.  
+Spring을 만끽하세요.
+
 ### 7. 하이퍼링크
-[PCWK Cafe](https://cafe.daum.net/pcwk,"설명문구")
+[PCWK Cafe](https://cafe.daum.net/pcwk/,"설명문구")
 
 
 ### 6. 가로선(hr)
