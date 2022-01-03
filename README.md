@@ -1,5 +1,5 @@
 ### 7. 하이퍼링크
-[PCWK Cafe](https://cafe.daum.net/pcwk?inviteLink=1uI1AlRDX2QmbgArHJx3UmFXuS,"설명문구")
+[PCWK Cafe](https://cafe.daum.net/pcwk,"설명문구")
 
 
 ### 6. 가로선(hr)
